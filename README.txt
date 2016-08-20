@@ -1,4 +1,4 @@
-
+This is just test of commit
 CONTENTS OF THIS FILE
 ---------------------
 
